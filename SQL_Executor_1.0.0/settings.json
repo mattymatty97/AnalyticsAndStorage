@@ -1,0 +1,9 @@
+[
+  {
+    "__comments": "MAX_QUEUE_CONNECTION indicates how many incoming connections can be put in queue before rejecting them, PORT indicates the port of inbound connections, BUFFERSIZE is the maximum length of the each query, DB_SERVER is the path to the sqlite server file",
+    "MAX_QUEUE_CONNECTIONS": 10,
+    "PORT": 10000,
+    "BUFFERSIZE": 1024,
+    "DB_SERVER": "test.db"
+  }
+]
